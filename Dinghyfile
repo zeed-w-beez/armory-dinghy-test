@@ -2,7 +2,7 @@
   "application": "zeed",
   "pipelines": [
     {
-      "application": "helloworldapp",
+      "application": "zeed",
       "name": "my-pipeline-name",
       "stages": [
         {
